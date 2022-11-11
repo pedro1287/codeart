@@ -1,1 +1,1 @@
-alejandr0123={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://eduvirtual.uho.edu.cu/', 'moodle_repo_id': 3, 'moodle_user': 'ericpm', 'moodle_password': '1234567m', 'isadmin': 1, 'zips': 1900, 'uploadtype': 'draft', 'proxy': '', 'path': '/', 'tokenize':0, 'preview': 0}
+JAGB2021={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://eduvirtual.uho.edu.cu/', 'moodle_repo_id': 3, 'moodle_user': 'ericpm', 'moodle_password': '1234567m', 'isadmin': 1, 'zips': 1900, 'uploadtype': 'draft', 'proxy': '', 'path': '/', 'tokenize':0, 'preview': 0}
